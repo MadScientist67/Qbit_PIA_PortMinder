@@ -3,4 +3,4 @@ Monitors Qbitorrent listening port and checks it against the forwarded port from
 
 You'll need to have the Qbit WebUI enabled for this to work. 
 
-V2.0 has the ability to be converted to an .exe file to run locally at startup fro the systray. 
+V2.0 has the ability to be converted to an .exe file to run locally at startup from the systray. 
