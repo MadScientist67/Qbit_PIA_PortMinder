@@ -7,8 +7,8 @@ Add-Type -AssemblyName System.Drawing
 
 $logPath       = "$env:USERPROFILE\qbit_port_monitor.log"
 $qbit_ini      = "$env:APPDATA\qBittorrent\qBittorrent.ini"
-$qbit_exe      = "J:\Program Files\qBittorrent\qbittorrent.exe"
-$piactl_path   = "C:\Program Files\Private Internet Access\piactl.exe"
+$qbit_exe      = "J:\Program Files\qBittorrent\qbittorrent.exe" # Change if your qBittorrent is installed somewhere different
+$piactl_path   = "C:\Program Files\Private Internet Access\piactl.exe" # Change if your PIA is  installed somewhere different
 $checkInterval = 900  # 15 minutes
 
 # qBittorrent WebUI settings
